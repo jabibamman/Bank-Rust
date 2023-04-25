@@ -1,2 +1,2 @@
 mod customer;
-mod bank;
+pub mod bank;
